@@ -1,0 +1,21 @@
+* {
+    font-family: cursive;
+}
+
+body {
+    background-image: url(images/background_image.jpg);
+}
+
+hr {
+    border: 0px;
+    margin-bottom: 500px;
+}
+
+.title {
+    text-align: center;
+}
+
+.image {
+    position: relative;
+    left: 50%;
+}
